@@ -1,2 +1,2 @@
 # Amazon-Navbar
-This is a Amazon Navbar i have created by using HTML and CSS
+This is a Amazon Navbar. I have created by using HTML and CSS
